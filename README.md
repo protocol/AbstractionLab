@@ -39,5 +39,8 @@ You can vew our current slate of publications, talks, and other resources on [ou
 
 ## Team
 
+-   [Alan Ransil](https://research.protocol.ai/authors/alan-ransil)
+-   [JOel Gustafson](https://research.protocol.ai/authors/joel-gustafson) 
+
 ## License
 Dual-licensed under [MIT](https://github.com/protocol/CryptoNetLab/blob/main/LICENSE-MIT.md) + [Apache 2.0.](https://github.com/protocol/AbstractionLLab/blob/main/LICENSE-APACHE.md)
