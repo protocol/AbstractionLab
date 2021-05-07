@@ -1,4 +1,4 @@
-![abstractionlab-icon](https://user-images.githubusercontent.com/25029171/117414784-d229de80-af17-11eb-9b3c-0fd779e6a514.png|width=100)
+<img src="https://user-images.githubusercontent.com/25029171/117414784-d229de80-af17-11eb-9b3c-0fd779e6a514.png" width="100">
 
 
 # AbstractionLab
