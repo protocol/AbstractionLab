@@ -5,7 +5,18 @@
 A forum for public discussion of current AbstractionLab projects and proposals in the AbstractionLab space
 
 ## Table of Contents
-
+- [The AbstractionLab](#abstractionlab)
+  - [Mission & Vision](#mission--vision)
+  
+- [Research](#research)
+  - [Open Problems](#research)
+  - [Projects](#research)
+  - [RFPs](#rfps)
+  - [Collaborations](#collaborations)
+- [Community](#community)
+- [Publications, Talks & Tutorials](#publications-talks--tutorials)
+- [Team](#team)
+- [Contact](#contact)
 
 ## `AbstractionLab`
 
@@ -46,5 +57,9 @@ You can vew our current slate of publications, talks, and other resources on [ou
 -   [Alan Ransil](https://research.protocol.ai/authors/alan-ransil)
 -   [Joel Gustafson](https://research.protocol.ai/authors/joel-gustafson) 
 
+### Contact
+
+You can reach out to us anytime with your question and interest in these projects by emailing [research@protocol.ai](mailto:research@protocol.ai)
+
 ## License
-Dual-licensed under [MIT](https://github.com/protocol/CryptoNetLab/blob/main/LICENSE-MIT.md) + [Apache 2.0.](https://github.com/protocol/AbstractionLLab/blob/main/LICENSE-APACHE.md)
+Dual-licensed under [MIT](https://github.com/protocol/CryptoNetLab/blob/main/LICENSE-MIT.md) + [Apache 2.0.](https://github.com/protocol/AbstractionLab/blob/main/LICENSE-APACHE.md)
