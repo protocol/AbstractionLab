@@ -15,11 +15,13 @@ A forum for public discussion of current AbstractionLab projects and proposals i
 
 ### Open Problems
 
+
+
 ### Projects 
 
-- The Underlay
-- ICAS
-- Decentralized Energy (rusticating)
+- [The Underlay](https://research.protocol.ai/talks/the-underlay-a-distributed-public-knowledge-graph/)
+- [The Project Formerly Known as the Inter-Cranial Abstraction System](https://research.protocol.ai/talks/the-inter-cranial-abstraction-system-icas/)
+- [Decentralized Energy](https://research.protocol.ai/talks/decentralized-energy-grid-a-protocol-labs-independent-research-project/) (rusticating)
 
 ### RFPs
   
