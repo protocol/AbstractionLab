@@ -30,7 +30,7 @@ AbstractionLab researchers have also worked on projects exploring the future of 
 
 ### Open Problems
 
-Open Problems can be posted [here](https://github.com/protocol/AbstractionLab/tree/main/OPEN_PROBLEMS) using [this template](https://github.com/protocol/AbstractionLab/commit/5660a19a0c3ec319d764550be0d6b9a87f502c8e). Open Problems can be formulated and improved via discussion on the [AbstractionLab Discussion Board](https://github.com/protocol/AbstractionLab/discussions).
+Open Problems can be posted [here](https://github.com/protocol/AbstractionLab/issues) using [this template](https://github.com/protocol/AbstractionLab/issues/new?assignees=&labels=open+problem+statement&template=open_problem_template.md&title=). Open Problems can be formulated and improved via discussion on the [AbstractionLab Discussion Board](https://github.com/protocol/AbstractionLab/discussions).
 
 ### Projects 
 
@@ -40,7 +40,7 @@ Open Problems can be posted [here](https://github.com/protocol/AbstractionLab/tr
 
 ### RFPs
   
- As we develop and post RFPs, they will be posted in [this github repo](https://github.com/protocol/research-RFPs).
+ As we develop and post RFPs, they will be posted in [this github repo](https://github.com/protocol/research-grants).
   
 ### Collaborations
   
