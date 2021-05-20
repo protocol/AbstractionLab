@@ -15,7 +15,7 @@ A forum for public discussion of current AbstractionLab projects and proposals i
 
 ### Open Problems
 
-Open Problems can be posted [here](https://github.com/protocol/AbstractionLab/tree/main/OPEN_PROBLEMS) using [this template](https://github.com/protocol/AbstractionLab/commit/5660a19a0c3ec319d764550be0d6b9a87f502c8e). Open Problems can be formulated and improved via discussion on the [AbstractionLab Discussion Board]
+Open Problems can be posted [here](https://github.com/protocol/AbstractionLab/tree/main/OPEN_PROBLEMS) using [this template](https://github.com/protocol/AbstractionLab/commit/5660a19a0c3ec319d764550be0d6b9a87f502c8e). Open Problems can be formulated and improved via discussion on the [AbstractionLab Discussion Board](https://github.com/protocol/AbstractionLab/discussions).
 
 ### Projects 
 
@@ -34,6 +34,8 @@ We are very interested in forming collaborations with researchers and engineers 
 ## Community
 
 Please join us for discussion on anything in the AbstractionLab sphere on our [discussion forum](https://github.com/protocol/AbstractionLab/discussions/)
+
+We also host the [PL Research Saloon](https://github.com/protocol/AbstractionLab/discussions/1), a researcher-led discussion of various top-of-mind issues. 
   
 ## Publications, Talks, & Tutorials
 
