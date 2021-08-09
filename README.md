@@ -22,7 +22,7 @@ A forum for public discussion of current AbstractionLab projects and proposals i
 
 ### Mission & Vision
 
-AbstractionLab is home to several projects exploring the future of decentralization, and how knowledge graphs and computations on knowledge can be performed in a decentralized fashion. 
+AbstractionLab is home to several projects exploring the future of decentralization, and how knowledge graphs and computations on knowledge can be created and performed in a decentralized fashion. 
 
 AbstractionLab researchers have also worked on projects exploring the future of decentralized infrastructure, and are presently applying their findings to questions of optimal resource allocation in distributed systems.
 
